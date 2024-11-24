@@ -5,9 +5,9 @@
 // the LICENSE file in the root directory of this source tree.
 //
 
+#import "TikTokBaseEvent.h"
 #import "TikTokConfig.h"
 #import "TikTokLogger.h"
-#import "TikTokBaseEvent.h"
 #import "TikTokConstants.h"
 
 NS_ASSUME_NONNULL_BEGIN
