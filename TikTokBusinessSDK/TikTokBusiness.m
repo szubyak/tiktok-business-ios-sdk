@@ -30,7 +30,6 @@
 #import "TikTokBusinessSDKMacros.h"
 #import "TikTokRequestHandler.h"
 #import "TikTokTypeUtility.h"
-#import "TikTokBaseEvent.h"
 
 @interface TikTokBusiness()
 
